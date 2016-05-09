@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=testplugin
+Exec=qmlscene %U testplugin/Main.qml
+Icon=testplugin/testplugin.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "testplugin.liu-xiao-guo",
+    "description": "description of testplugin",
+    "architecture": "@CLICK_ARCH@",
+    "title": "testplugin",
+    "hooks": {
+        "testplugin": {
+            "apparmor": "testplugin/testplugin.apparmor",
+            "desktop":  "testplugin/testplugin.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
